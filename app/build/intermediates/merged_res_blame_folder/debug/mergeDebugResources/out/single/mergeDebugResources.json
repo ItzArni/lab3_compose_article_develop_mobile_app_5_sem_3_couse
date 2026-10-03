@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "ru.kemsu.mobile.lab3.article.app-debug-45:/drawable_app_icon.xml.flat",
+        "source": "ru.kemsu.mobile.lab3.article.app-main-47:/drawable/app_icon.xml"
+    },
+    {
+        "merged": "ru.kemsu.mobile.lab3.article.app-debug-45:/drawable_compose_article.png.flat",
+        "source": "ru.kemsu.mobile.lab3.article.app-main-47:/drawable/compose_article.png"
+    }
+]
